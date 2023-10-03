@@ -1,0 +1,55 @@
+Packet Number,SIV,FixType,Latitude,Longitude,Altitude,Year,Month,Day,Hour,Min,Sec,NNV,NEV,NDV,Battery,3v3 Supply,5v Supply,Radio Supply,Analog Internal,Analog External,Altimeter Temp,Digital Internal,Digital Eternal,Pressure,Accel A,Accel Y,Accel z,Pitch,Roll,Yaw
+1668,0,0,0,0,0,2020,8,2,0,27,50,0,0,0,3.94,3.25,4.98,4.97,37.70,26.81,23.89,28.61,23.55,842.42,0.57,0.11,9.75,3.37,0.67,178.00,"END
+"
+1669,0,0,0,0,0,2020,8,2,0,27,51,0,0,0,3.91,3.25,4.98,4.96,37.65,27.34,23.86,28.54,23.53,842.58,0.57,0.15,9.48,3.46,0.92,177.62,"END
+"
+1670,0,0,0,0,0,2020,8,2,0,27,52,0,0,0,3.93,3.25,4.98,4.97,37.39,27.09,23.84,28.50,23.55,842.34,0.57,0.11,9.64,3.41,0.68,177.74,"END
+"
+1671,0,0,0,0,0,2020,8,2,0,27,53,0,0,0,3.94,3.25,4.98,4.95,37.78,26.89,23.83,28.48,23.53,842.36,0.57,0.11,9.71,3.38,0.68,177.52,"END
+"
+1672,0,0,0,0,0,2020,8,2,0,27,54,0,0,0,3.95,3.26,4.98,4.97,37.72,27.39,23.84,28.51,23.51,842.41,0.57,0.11,9.68,3.39,0.68,177.86,"END
+"
+1673,0,0,0,0,0,2020,8,2,0,27,55,0,0,0,3.94,3.25,4.98,4.95,37.91,27.25,23.84,28.56,23.54,842.38,0.61,0.15,9.48,3.69,0.92,178.59,"END
+"
+1674,0,0,0,0,0,2020,8,2,0,27,56,0,0,0,3.93,3.26,4.98,4.97,37.33,27.24,23.86,28.55,23.53,842.43,0.54,0.23,9.64,3.18,1.36,178.28,"END
+"
+1675,0,0,0,0,0,2020,8,2,0,27,57,0,0,0,3.94,3.25,4.98,4.91,37.63,27.11,23.87,28.55,23.52,842.55,0.50,0.15,9.64,2.95,0.91,178.21,"END
+"
+1676,0,0,0,0,0,2020,8,2,0,27,58,0,0,0,3.93,3.26,4.98,4.96,37.45,27.37,23.86,28.53,23.52,842.53,0.50,0.11,9.64,2.95,0.68,177.37,"END
+"
+1677,0,0,0,0,0,2020,8,2,0,27,59,0,0,0,3.94,3.25,4.98,4.90,38.15,27.31,23.86,28.53,23.52,842.34,0.57,0.19,9.52,3.45,1.15,178.20,"END
+"
+1678,0,0,0,0,0,2020,8,2,0,28,0,0,0,0,3.94,3.26,4.98,4.97,37.64,26.78,23.83,28.55,23.54,842.39,0.61,0.11,9.60,3.65,0.68,177.28,"END
+"
+1679,0,0,0,0,0,2020,8,2,0,28,1,0,0,0,3.93,3.25,4.98,4.96,37.02,27.43,23.82,28.56,23.48,842.49,0.57,0.19,9.71,3.38,1.13,177.69,"END
+"
+1680,0,0,0,0,0,2020,8,2,0,28,2,0,0,0,3.93,3.25,4.98,4.96,37.10,27.02,23.82,28.59,23.52,842.37,0.57,0.15,9.75,3.37,0.90,177.83,"END
+"
+1681,0,0,0,0,0,2020,8,2,0,28,3,0,0,0,3.94,3.25,4.98,4.93,37.06,27.20,23.83,28.56,23.50,842.43,0.57,0.15,9.71,3.38,0.90,178.05,"END
+"
+1682,0,0,0,0,0,2020,8,2,0,28,4,0,0,0,3.90,3.26,4.98,4.97,37.44,26.62,23.83,28.56,23.49,842.43,0.73,0.15,9.64,4.31,0.91,178.81,"END
+"
+1683,0,0,0,0,0,2020,8,2,0,28,5,0,0,0,3.93,3.25,4.98,4.96,37.85,27.18,23.85,28.55,23.52,842.47,0.57,0.15,9.68,3.39,0.90,178.44,"END
+"
+1684,0,0,0,0,0,2020,8,2,0,28,6,0,0,0,3.86,3.25,4.98,4.97,37.30,27.42,23.86,28.52,23.52,842.54,0.61,0.19,9.71,3.60,1.13,178.40,"END
+"
+1685,0,0,0,0,0,2020,8,2,0,28,7,0,0,0,3.93,3.25,4.98,4.96,37.13,26.91,23.86,28.55,23.51,842.37,0.23,0.42,9.71,1.35,2.48,179.26,"END
+"
+1686,0,0,0,0,0,2020,8,2,0,28,8,0,0,0,3.92,3.26,4.98,4.97,37.08,27.51,23.85,28.59,23.52,842.41,0.54,0.11,9.71,3.15,0.68,177.64,"END
+"
+1687,0,0,0,0,0,2020,8,2,0,28,9,0,0,0,3.93,3.25,4.98,4.96,37.73,27.12,23.84,28.57,23.51,842.50,0.65,0.08,9.68,3.84,0.45,177.10,"END
+"
+1688,0,0,0,0,0,2020,8,2,0,28,10,0,0,0,3.87,3.26,4.98,4.97,37.38,27.87,23.86,28.59,23.53,842.38,0.61,0.15,9.68,3.62,0.90,177.85,"END
+"
+1689,0,0,0,0,0,2020,8,2,0,28,11,0,0,0,3.93,3.25,4.98,4.96,37.62,26.74,23.87,28.57,23.52,842.41,0.69,0.11,9.52,4.13,0.69,177.89,"END
+"
+1690,0,0,0,0,0,2020,8,2,0,28,12,0,0,0,3.93,3.25,4.98,4.97,37.45,26.81,23.86,28.54,23.52,842.64,0.50,0.15,9.79,2.91,0.89,178.00,"END
+"
+1691,0,0,0,0,0,2020,8,2,0,28,13,0,0,0,3.93,3.25,4.98,4.95,37.42,27.20,23.88,28.52,23.53,842.50,0.54,0.11,9.68,3.17,0.68,177.13,"END
+"
+Packet Number,SIV,FixType,Latitude,Longitude,Altitude,Year,Month,Day,Hour,Min,Sec,NNV,NEV,NDV,Battery,3v3 Supply,5v Supply,Radio Supply,Analog Internal,Analog External,Altimeter Temp,Digital Internal,Digital Eternal,Pressure,Accel A,Accel Y,Accel z,Pitch,Roll,Yaw
+Packet Number,SIV,FixType,Latitude,Longitude,Altitude,Year,Month,Day,Hour,Min,Sec,NNV,NEV,NDV,Battery,3v3 Supply,5v Supply,Radio Supply,Analog Internal,Analog External,Altimeter Temp,Digital Internal,Digital Eternal,Pressure,Accel A,Accel Y,Accel z,Pitch,Roll,Yaw
+Packet Number,SIV,FixType,Latitude,Longitude,Altitude,Year,Month,Day,Hour,Min,Sec,NNV,NEV,NDV,Battery,3v3 Supply,5v Supply,Radio Supply,Analog Internal,Analog External,Altimeter Temp,Digital Internal,Digital Eternal,Pressure,Accel A,Accel Y,Accel z,Pitch,Roll,Yaw
+Packet Number,SIV,FixType,Latitude,Longitude,Altitude,Year,Month,Day,Hour,Min,Sec,NNV,NEV,NDV,Battery,3v3 Supply,5v Supply,Radio Supply,Analog Internal,Analog External,Altimeter Temp,Digital Internal,Digital Eternal,Pressure,Accel A,Accel Y,Accel z,Pitch,Roll,Yaw
+Packet Number,SIV,FixType,Latitude,Longitude,Altitude,Year,Month,Day,Hour,Min,Sec,NNV,NEV,NDV,Battery,3v3 Supply,5v Supply,Radio Supply,Analog Internal,Analog External,Altimeter Temp,Digital Internal,Digital Eternal,Pressure,Accel A,Accel Y,Accel z,Pitch,Roll,Yaw
+Packet Number,SIV,FixType,Latitude,Longitude,Altitude,Year,Month,Day,Hour,Min,Sec,NNV,NEV,NDV,Battery,3v3 Supply,5v Supply,Radio Supply,Analog Internal,Analog External,Altimeter Temp,Digital Internal,Digital Eternal,Pressure,Accel A,Accel Y,Accel z,Pitch,Roll,Yaw
